@@ -1,2 +1,2 @@
 # mips
-MIPS pipeline without hazard detection and control
+MIPS verilog code
